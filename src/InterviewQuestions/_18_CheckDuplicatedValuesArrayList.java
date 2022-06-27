@@ -64,8 +64,6 @@ public class _18_CheckDuplicatedValuesArrayList {
                 newList.add(element);
             }
         }
-
-
         System.out.println("newList = " + newList);
     }
 
